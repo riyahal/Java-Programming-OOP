@@ -56,7 +56,7 @@ I have organized the repository to follow a logical learning path, moving from b
 * [Threads and Runnable](https://github.com/rhalbhavi/Java-Programming-OOP/tree/main/OOP/Threads%20and%20Runnable)
 
 ### Java Database Connectivity (JDBC)
-* [Java Database Connectivity (JDBC)](https://github.com/rhalbhavi/Java-Programming-OOP/tree/main/OOP/JDBC%20Java%20Database%20Connectivity)
+* [Java Database Connectivity (JDBC)](https://github.com/rhalbhavi/Java-Programming-OOP/tree/main/JDBC%20(Java%20Database%20Connectivity))
 
 ### General Examples
 * [General Examples](https://github.com/rhalbhavi/Java-Programming-OOP/tree/main/Examples)
