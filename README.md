@@ -67,7 +67,7 @@ I have organized the repository to follow a logical learning path, moving from b
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/riyahal/Java-Programming-OOP.git
+    git clone https://github.com/rhalbhavi/Java-Programming-OOP.git
     ```
 2. **Navigate to the directory:**
     ```bash
