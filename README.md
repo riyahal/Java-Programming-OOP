@@ -29,31 +29,31 @@ Java's scalability and security make it a cornerstone of modern software enginee
 I have organized the repository to follow a logical learning path, moving from basic syntax to complex system design:
 
 ### 🛠️ Core Foundations
-* [Variables](https://github.com/rhalbhavi/Java-Programming-OOP/blob/main/Variables.java)
-* [Type Casting](https://github.com/rhalbhavi/Java-Programming-OOP/blob/main/Type_Casting.java)
-* [Access Modifiers](https://github.com/rhalbhavi/Java-Programming-OOP/blob/main/Access_Modifiers.java)
-* [Wrapper Classes](https://github.com/rhalbhavi/Java-Programming-OOP/blob/main/Wrapper_Class.java)
-* [Auto-Boxing and Auto-Unboxing](https://github.com/rhalbhavi/Java-Programming-OOP/blob/main/Auto_Boxing_and_Auto_Unboxing.java)
+* [Variables](https://github.com/riyahal/Java-Programming-OOP/blob/main/Variables.java)
+* [Type Casting](https://github.com/riyahal/Java-Programming-OOP/blob/main/Type_Casting.java)
+* [Access Modifiers](https://github.com/riyahal/Java-Programming-OOP/blob/main/Access_Modifiers.java)
+* [Wrapper Classes](https://github.com/riyahal/Java-Programming-OOP/blob/main/Wrapper_Class.java)
+* [Auto-Boxing and Auto-Unboxing](https://github.com/riyahal/Java-Programming-OOP/blob/main/Auto_Boxing_and_Auto_Unboxing.java)
 
 ### Conditional and Looping Statements
 * [Conditional Statements](https://github.com/rhalbhavi/Java-Programming-OOP/tree/main/Conditional%20Statements)
 * [Looping Statements](https://github.com/rhalbhavi/Java-Programming-OOP/tree/main/Looping%20Statements)
 
 ### Data Structures
-* [Arrays](https://github.com/rhalbhavi/Java-Programming-OOP/tree/main/Arrays)
-* [Strings](https://github.com/thalbhavi/Java-Programming-OOP/tree/main/Strings)
-* [Methods](https://github.com/rhalbhavi/Java-Programming-OOP/tree/main/Methods)
+* [Arrays](https://github.com/riyahal/Java-Programming-OOP/tree/main/Arrays)
+* [Strings](https://github.com/riyahal/Java-Programming-OOP/tree/main/Strings)
+* [Methods](https://github.com/riyahal/Java-Programming-OOP/tree/main/Methods)
 
 ### Object-Oriented Programming (OOP)
-* [Classes](https://github.com/rhalbhavi/Java-Programming-OOP/tree/main/OOP/Classes)
-* [Objects](https://github.com/rhalbhavi/Java-Programming-OOP/tree/main/OOP/Objects)
-* [Constructors](https://github.com/rhalbhavi/Java-Programming-OOP/tree/main/OOP/Constructors)
-* [Inheritance](https://github.com/rhalbhavi/Java-Programming-OOP/tree/main/OOP/Inheritance)
-* [Interfaces](https://github.com/rhalbhavi/Java-Programming-OOP/tree/main/OOP/Interfaces)
-* [Polymorphism](https://github.com/rhalbhavi/Java-Programming-OOP/tree/main/OOP/Polymorphism)
-* [Method Overloadind and Overriding](https://github.com/rhalbhavi/Java-Programming-OOP/tree/main/OOP/Method%20Overloading%20and%20Overriding)
-* [Exception Handling](https://github.com/rhalbhavi/Java-Programming-OOP/tree/main/OOP/Exception%20Handling)
-* [Threads and Runnable](https://github.com/rhalbhavi/Java-Programming-OOP/tree/main/OOP/Threads%20and%20Runnable)
+* [Classes](https://github.com/riyahal/Java-Programming-OOP/tree/main/OOP/Classes)
+* [Objects](https://github.com/riyahal/Java-Programming-OOP/tree/main/OOP/Objects)
+* [Constructors](https://github.com/riyahal/Java-Programming-OOP/tree/main/OOP/Constructors)
+* [Inheritance](https://github.com/riyahal/Java-Programming-OOP/tree/main/OOP/Inheritance)
+* [Interfaces](https://github.com/riyahal/Java-Programming-OOP/tree/main/OOP/Interfaces)
+* [Polymorphism](https://github.com/riyahal/Java-Programming-OOP/tree/main/OOP/Polymorphism)
+* [Method Overloadind and Overriding](https://github.com/riyahal/Java-Programming-OOP/tree/main/OOP/Method%20Overloading%20and%20Overriding)
+* [Exception Handling](https://github.com/riyahal/Java-Programming-OOP/tree/main/OOP/Exception%20Handling)
+* [Threads and Runnable](https://github.com/riyahal/Java-Programming-OOP/tree/main/OOP/Threads%20and%20Runnable)
 
 ### Java Database Connectivity (JDBC)
 
@@ -67,7 +67,7 @@ I have organized the repository to follow a logical learning path, moving from b
 
 1. **Clone the repository:**
     ```bash
-    git clone [https://github.com/3riy/Java.git](https://github.com/3riy/Java.git)
+    git clone [https://github.com/riyahal/Java-Programming-OOP.git](https://github.com/riyahal/Java-Programming-OOP.git)
     ```
 2. **Navigate to the directory:**
     ```bash
@@ -102,9 +102,3 @@ To execute Java programs, you need the **Java Development Kit (JDK)**.
 1. **Install VS Code:** Download from [official website](https://code.visualstudio.com/).
 2. **Extension Pack:** Install the **"Extension Pack for Java"** by Microsoft.
 3. **Run Code:** Use the **Run** button at the top right of your `.java` file or use `F5`.
-
----
-
-## Dicussions
-
-Visit the [Discussions page](https://github.com/3riy/Java-Basics/discussions) to share any comments or remarks you may have regarding this repo!
